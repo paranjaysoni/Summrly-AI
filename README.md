@@ -63,7 +63,7 @@ source venv/bin/activate
 Install dependencies:
 
 ```bash
-pip install -U streamlit langchain langchain-core langchain-community langchain-text-splitters langchain-groq pypdf
+pip install -r requirements.txt
 ```
 
 ---
